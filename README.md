@@ -69,7 +69,7 @@ python tests.py
 
 # Matrix Operations Cache System
 
-Educational project for PM.06 "Information Systems Support" (internship).
+Educational project for PM.06 "Information Systems Support" (internship,task 12).
 
 The program is designed to store the results of matrix operations in a cache. A unique hash is calculated for each pair of matrices, allowing previously computed results to be found quickly and avoiding repeated calculations.
 
